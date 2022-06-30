@@ -48,7 +48,8 @@
           "config": {
             "repository": {
               "owner": "Ross Kelly",
-              "name": "electron-publish-example"
+              "name": "electron-publish-example",
+              "draft": true
             }
           }
         }
