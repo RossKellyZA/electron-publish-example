@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": {
-    "name": "Ross",
+    "name": "Ross Kelly",
     "email": "rosshaydenkelly@gmail.com"
   },
   "license": "MIT",
@@ -47,7 +47,7 @@
           "name": "@electron-forge/publisher-github",
           "config": {
             "repository": {
-              "owner": "Ross Kellt",
+              "owner": "Ross Kelly",
               "name": "electron-publish-example"
             }
           }
